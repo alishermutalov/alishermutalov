@@ -10,7 +10,7 @@ I am a passionate Python developer currently studying at PDP University, with a 
 * 🌍  I'm based in Tashkent
 * 🖥️  See my portfolio at [My portfolio](http://alishersportfolio.uz)
 * ✉️  You can contact me at [amutalov001@gmail.com](mailto:amutalov001@gmail.com)
-* 🧠  I'm learning FastAPI
+* 🧠  I'm learning FastAPI, Pandas, Numpy, Matpotlib
 
 ### Skills
 
