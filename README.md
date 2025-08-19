@@ -8,7 +8,7 @@ Python backend developer
 I am a passionate Python developer currently studying at PDP University, with a strong interest in IT and backend development. I have experience in creating scalable and efficient web applications using Django and Django REST Framework. I enjoy learning new technologies and continuously improving my skills to stay updated with the latest trends in software development. Recently, I co-founded st40.uz, a private web studio, where we specialize in web development services. In addition to managing the studio, I am currently working on two other major projects, focusing on backend development, automation, and integration of complex systems.
 
 * 🌍  I'm based in Tashkent
-* 🖥️  See my portfolio at [My portfolio](http://alishersportfolio.uz)
+* 🖥️  See my portfolio at [My portfolio](https://alishers.netlify.app/)
 * ✉️  You can contact me at [amutalov001@gmail.com](mailto:amutalov001@gmail.com)
 * 🧠  I'm learning FastAPI, Docker
 
